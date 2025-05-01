@@ -10,6 +10,8 @@ python = "3.12.4"
 fastapi = {extras = ["standard"], version = "^0.115.12"}
 loguru = "^0.7.3"
 pydantic-settings = "^2.9.1"
+requests = "^2.32.3"
+aiohttp = "^3.11.18"
 
 
 [build-system]

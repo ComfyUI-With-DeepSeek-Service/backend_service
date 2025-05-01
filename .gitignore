@@ -175,3 +175,9 @@ cython_debug/
 /.idea/.gitignore
 /.idea/material_theme_project_new.xml
 /settings/env
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/backend_service.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
